@@ -1,8 +1,20 @@
-# my_qr
-
-A new Flutter project.
+# SIMPLE QR SCAN APP
 
 ![main](https://user-images.githubusercontent.com/75659806/235034933-aeb41195-3b6d-4935-a393-14a889bb5cb3.jpg)
+
+# QR SCAN
+
+https://user-images.githubusercontent.com/75659806/235307728-f456bf0d-c559-49c5-bb73-6716456f6ba2.mp4
+
+
+# DARK MODE
+
+https://user-images.githubusercontent.com/75659806/235307744-c2c8a1ef-bf9b-4019-afbf-fab7a16d22a7.mp4
+
+
+# SIZE CONTROL
+
+https://user-images.githubusercontent.com/75659806/235307753-9d0c1a3d-1724-4cd7-8f26-1ee95478b45e.mp4
 
 
 
